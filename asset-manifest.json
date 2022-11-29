@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/mint-site/static/css/main.79c59b57.chunk.css",
-    "main.js": "/mint-site/static/js/main.c916132a.chunk.js",
-    "main.js.map": "/mint-site/static/js/main.c916132a.chunk.js.map",
+    "main.js": "/mint-site/static/js/main.0361a867.chunk.js",
+    "main.js.map": "/mint-site/static/js/main.0361a867.chunk.js.map",
     "runtime-main.js": "/mint-site/static/js/runtime-main.901c6124.js",
     "runtime-main.js.map": "/mint-site/static/js/runtime-main.901c6124.js.map",
-    "static/js/2.6c111ff8.chunk.js": "/mint-site/static/js/2.6c111ff8.chunk.js",
-    "static/js/2.6c111ff8.chunk.js.map": "/mint-site/static/js/2.6c111ff8.chunk.js.map",
+    "static/js/2.035cf0a0.chunk.js": "/mint-site/static/js/2.035cf0a0.chunk.js",
+    "static/js/2.035cf0a0.chunk.js.map": "/mint-site/static/js/2.035cf0a0.chunk.js.map",
     "static/js/3.4124a026.chunk.js": "/mint-site/static/js/3.4124a026.chunk.js",
     "static/js/3.4124a026.chunk.js.map": "/mint-site/static/js/3.4124a026.chunk.js.map",
     "index.html": "/mint-site/index.html",
     "static/css/main.79c59b57.chunk.css.map": "/mint-site/static/css/main.79c59b57.chunk.css.map",
-    "static/js/2.6c111ff8.chunk.js.LICENSE.txt": "/mint-site/static/js/2.6c111ff8.chunk.js.LICENSE.txt",
+    "static/js/2.035cf0a0.chunk.js.LICENSE.txt": "/mint-site/static/js/2.035cf0a0.chunk.js.LICENSE.txt",
     "static/media/index.css": "/mint-site/static/media/newBGspviz.e49fbb82.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.901c6124.js",
-    "static/js/2.6c111ff8.chunk.js",
+    "static/js/2.035cf0a0.chunk.js",
     "static/css/main.79c59b57.chunk.css",
-    "static/js/main.c916132a.chunk.js"
+    "static/js/main.0361a867.chunk.js"
   ]
 }
